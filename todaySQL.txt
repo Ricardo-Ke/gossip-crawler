@@ -1,0 +1,53 @@
+INSERT INTO wp_posts VALUES (436, 1,"2017-03-21 15:30:47","2017-03-21 15:30:47",'<img class="size-full wp-image-84137 alignleft" src="http://blindgossip.com/wp-content/uploads/2017/03/heather-morris-black-eye.jpg" alt="" width="300" height="300" srcset="http://blindgossip.com/wp-content/uploads/2017/03/heather-morris-black-eye.jpg 300w, http://blindgossip.com/wp-content/uploads/2017/03/heather-morris-black-eye-150x150.jpg 150w, http://blindgossip.com/wp-content/uploads/2017/03/heather-morris-black-eye-100x100.jpg 100w, http://blindgossip.com/wp-content/uploads/2017/03/heather-morris-black-eye-144x144.jpg 144w" sizes="(max-width: 300px) 100vw, 300px">[] We were surprised to hear that this singer went from a relationship that was emotionally bruising&#x2026; to one that is<span id="more-84135"></span> physically bruising.
+
+He doesn’t beat her up or anything. Their sex life is just real rough (but consensual). She gets bruised on her body, not her face. If a stranger asks, she says it’s because she works out hard. She says not to worry unless she breaks something. Other than the black and blue marks, she seems happy.
+
+Not Heather Morris.
+
+Similar: 
+
+Singer:
+
+[Optional] Is their relationship healthy or worrisome?
+
+',"Other Than The Black And Blue Marks","","publish","open","open","","other-than-the-black-and-blue-marks","","","2017-03-21 15:30:47","2017-03-21 15:30:47","", 0, "", 0, "post", "", 0),(437, 1,"2017-03-21 13:00:13","2017-03-21 13:00:13",'<img class="size-full wp-image-84127 alignleft" src="http://blindgossip.com/wp-content/uploads/2017/03/family-amusement-park-1.jpg" alt="" width="300" height="300" srcset="http://blindgossip.com/wp-content/uploads/2017/03/family-amusement-park-1.jpg 300w, http://blindgossip.com/wp-content/uploads/2017/03/family-amusement-park-1-150x150.jpg 150w, http://blindgossip.com/wp-content/uploads/2017/03/family-amusement-park-1-100x100.jpg 100w, http://blindgossip.com/wp-content/uploads/2017/03/family-amusement-park-1-144x144.jpg 144w" sizes="(max-width: 300px) 100vw, 300px">[] When she was questioned about her television actor husband spending the day with<span id="more-84126"></span> a real life political figure, the actors&#x2019; wife laughed about it in public.
+
+She’s not laughing so hard in private!
+
+That was just a day out with the kids (he brought his daughter) so that one was probably innocent, but I happen to know that he is not always so innocent! [Actor] has been cheating on her for years with costars and extras and god knows who else. She’s in the business, too, so she knows the score. They sometimes fight about it, but she will never leave him. By the way, no, they do not have an open marriage!
+
+Similar: 
+
+Actor:
+
+Political Figure:
+
+[Optional] Do you think his relationship with the political figure is innocent?
+
+',"Not Always So Innocent","","publish","open","open","","not-always-so-innocent","","","2017-03-21 13:00:13","2017-03-21 13:00:13","", 0, "", 0, "post", "", 0),(438, 1,"2017-03-21 11:15:34","2017-03-21 11:15:34",'<img class="size-full wp-image-84123 alignleft" src="http://blindgossip.com/wp-content/uploads/2017/03/torso-mustafa.gif" alt="" width="300" height="300">[] This pretty actress is the star of a cable TV drama. She is also bringing on the drama when it comes to her famous athlete husband!<span id="more-84121"></span>
+
+Girl is so thirsty that she just blurts out stupid things for attention. She’s never been thrilled about the fact that [her husband] has multiple babies with multiple baby mamas (including one when they were supposedly “on a break”). So does she really think that going around bragging about the size of his d*ck is going to incentivize other women to stay away from him? SMDH.
+
+Similar: 
+
+Actress:
+
+Athlete:
+
+[Optional] Would you be OK with your partner talking about your body or your sexual prowess in public?
+
+',"Bringing On The Package Drama","","publish","open","open","","bringing-on-the-package-drama","","","2017-03-21 11:15:34","2017-03-21 11:15:34","", 0, "", 0, "post", "", 0),(439, 1,"2017-03-21 09:45:17","2017-03-21 09:45:17",'<img class="size-full wp-image-84116 alignleft" src="http://blindgossip.com/wp-content/uploads/2017/03/couple-fighting-16.jpg" alt="" width="300" height="300" srcset="http://blindgossip.com/wp-content/uploads/2017/03/couple-fighting-16.jpg 300w, http://blindgossip.com/wp-content/uploads/2017/03/couple-fighting-16-150x150.jpg 150w, http://blindgossip.com/wp-content/uploads/2017/03/couple-fighting-16-100x100.jpg 100w, http://blindgossip.com/wp-content/uploads/2017/03/couple-fighting-16-144x144.jpg 144w" sizes="(max-width: 300px) 100vw, 300px">[] He&#x2019;s a movie star. She used to be one, too, but is currently taking a break from acting. They say they have an understanding about her priorities.
+
+Maybe he’s not as understanding as he pretends to be.
+
+In public he has to say nice things about her. Privately, though, he says that she is being selfish. He’s mad that she didn’t want to support him for his big Oscars night but somehow it’s a priority for her to support a retail store? He was yelling, “What the f*ck kind of priorities are those?!?!” If it wasn’t for the kids, I don’t think they would have any kind of relationship right now.
+
+Similar: 
+
+Actor:
+
+Actress:
+
+[Optional] Why do you think she didn’t show up to the Oscars?
+
+',"WTF Kind Of Priorities","","publish","open","open","","wtf-kind-of-priorities","","","2017-03-21 09:45:17","2017-03-21 09:45:17","", 0, "", 0, "post", "", 0)
